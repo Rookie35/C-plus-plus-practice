@@ -4,35 +4,35 @@ using namespace std;
 
 int count=1;
 
-//´æÔÚ´óÁ¿ÖØ¸´¼ÆËã ,×Ô¶¥ÏòÏÂ 
+//å­˜åœ¨å¤§é‡é‡å¤è®¡ç®— ,è‡ªé¡¶å‘ä¸‹ 
 int Fib(int n)
 {
-	printf("(%d)Çó½âFib(%d)\n",count++,n);
+	printf("(%d)æ±‚è§£Fib(%d)\n",count++,n);
 	if(n==1 || n==2){
-		printf("  ¼ÆËã³öFib(%d)=%d\n",n,1);
+		printf("  è®¡ç®—å‡ºFib(%d)=%d\n",n,1);
 		return 1; 
 	}
 	else{
 		int x=Fib(n-1);
 		int y=Fib(n-2);
-		printf("  ¼ÆËã³öFib(%d)=Fib(%d)+Fib(%d)=%d\n",n,n-1,n-2,x+y);
+		printf("  è®¡ç®—å‡ºFib(%d)=Fib(%d)+Fib(%d)=%d\n",n,n-1,n-2,x+y);
 		return x+y; 
 	}
-} 
+}
 
-//Éè¼Ædp[]¶¯Ì¬¹æ»®Êı×é,×Ôµ×ÏòÉÏ 
+//è®¾è®¡dp[]åŠ¨æ€è§„åˆ’æ•°ç»„,è‡ªåº•å‘ä¸Š 
 int dp[MAX];
 int Fib1(int n)
 {
 	dp[1]=dp[2]=1;
-	printf("(%d)¼ÆËã³öFib(1)=1\n",count++);
-	printf("(%d)¼ÆËã³öFib(2)=1\n",count++);
-	//½¨±í 
+	printf("(%d)è®¡ç®—å‡ºFib(1)=1\n",count++);
+	printf("(%d)è®¡ç®—å‡ºFib(2)=1\n",count++);
+	//å»ºè¡¨ 
 	for(int i=3;i<=n;i++){
-		dp[i]=dp[i-1]+dp[i-2];//²é±íµÃµ½ 
-		printf("(%d)¼ÆËã³öFib(%d)=%d\n",count++,i,dp[i]);
+		dp[i]=dp[i-1]+dp[i-2];//æŸ¥è¡¨å¾—åˆ° 
+		printf("(%d)è®¡ç®—å‡ºFib(%d)=%d\n",count++,i,dp[i]);
 	}
-	return dp[n];//Ô­ÎÊÌâµÄ½â 
+	return dp[n];//åŸé—®é¢˜çš„è§£ 
 } 
  
 

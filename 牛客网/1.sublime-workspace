@@ -1,0 +1,466 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sho",
+				"show"
+			],
+			[
+				"num",
+				"num"
+			],
+			[
+				"show",
+				"show"
+			],
+			[
+				"ge",
+				"gety"
+			],
+			[
+				"s",
+				"static"
+			],
+			[
+				"st",
+				"str"
+			],
+			[
+				"str",
+				"strcpy"
+			],
+			[
+				"le",
+				"len"
+			],
+			[
+				"len",
+				"lenth"
+			],
+			[
+				"de",
+				"delete"
+			],
+			[
+				"fa",
+				"father"
+			],
+			[
+				"firs",
+				"first"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"sh",
+				"show"
+			],
+			[
+				"n",
+				"n"
+			],
+			[
+				"en",
+				"english"
+			],
+			[
+				"type",
+				"type2"
+			],
+			[
+				"typ",
+				"type2"
+			],
+			[
+				"My",
+				"My2"
+			],
+			[
+				"do",
+				"double"
+			],
+			[
+				"ma",
+				"math"
+			],
+			[
+				"mou",
+				"mouth"
+			],
+			[
+				"gra",
+				"grade"
+			],
+			[
+				"end",
+				"endl"
+			],
+			[
+				"nu",
+				"num"
+			],
+			[
+				"da",
+				"date"
+			],
+			[
+				"e",
+				"endl"
+			],
+			[
+				"m",
+				"m"
+			],
+			[
+				"pri",
+				"private"
+			],
+			[
+				"std",
+				"student"
+			],
+			[
+				"a",
+				"all"
+			],
+			[
+				"ios",
+				"iostream\tstandard header"
+			],
+			[
+				"M",
+				"MAX_LENGTH"
+			],
+			[
+				"Sq",
+				"SqQueue"
+			],
+			[
+				"printf",
+				"printflist"
+			],
+			[
+				"lis",
+				"listdelete"
+			],
+			[
+				"prin",
+				"printflist"
+			],
+			[
+				"list",
+				"listinsert"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/User/C++2.sublime-build",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "Run",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ter",
+				"Terminal: Open"
+			],
+			[
+				"git:add",
+				"Git: Add Current File"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"ma",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"git",
+				"Set Syntax: Git Commit"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Enumeration"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Install packages",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Bookmarks: Clear All"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				" install package",
+				"Package Control: Install Package"
+			],
+			[
+				"install package",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 171.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/C++_code/牛客网/1.sublime-workspace",
+		"/E/C++_code/output.txt",
+		"/E/C++_code/异常处理.cpp",
+		"/E/C++_code/赋值运算符重载.cpp",
+		"/E/C++_code/判断单链表是否有环.cpp",
+		"/E/C++_code/下标等运算符重载.cpp",
+		"/E/C++_code/虚基类及多继承.cpp",
+		"/E/C++_code/虚函数引例.cpp",
+		"/E/C++_code/继承访问修改个别成员权限.cpp",
+		"/E/C++_code/纯虚函数与抽象类.cpp",
+		"/E/C++_code/虚函数.cpp",
+		"/E/C++_code/指针的引用.cpp",
+		"/E/C++_code/派生类赋值兼容.cpp",
+		"/E/C++_code/静态成员.cpp",
+		"/E/C++_code/重载.cpp",
+		"/E/C++_code/友元函数.cpp",
+		"/E/C++_code/类的组合、构造.cpp",
+		"/E/C++_code/多继承与派生构造.cpp",
+		"/E/C++_code/变量构造释放顺序.cpp",
+		"/C/Users/user/AppData/Roaming/Sublime Text 3/Packages/User/C++2.sublime-build",
+		"/C/Users/user/AppData/Roaming/Sublime Text 3/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+		"/E/C++_code/类模板.cpp",
+		"/E/C++_code/�麯��.cpp",
+		"/E/C++_code/�����ϡ�����.cpp",
+		"/E/C++_code/类嵌套.cpp",
+		"/E/C++_code/多线程.cpp",
+		"/E/C++_code/input.txt",
+		"/E/C++_code/��̳�����������.cpp",
+		"/E/C++_code/main.cpp",
+		"/E/C++_code/README.md",
+		"/C/Users/user/AppData/Roaming/Sublime Text 3/Packages/User/C++11sublime-build.sublime-build",
+		"/E/C++_code/命名空间.cpp",
+		"/E/C++_code/test3.cpp",
+		"/E/C++_code/greeting.cpp",
+		"/E/大学学习资料/大二上/数据结构/sourcecode/3/EDLINE.C",
+		"/E/C++_code/data_struct_C/8.c",
+		"/E/C++_code/data_struct_C/7.c",
+		"/E/C++_code/data_struct_C/9.c",
+		"/E/大学学习资料/大二上/数据结构/sourcecode/2/SQLIST.C",
+		"/E/大学学习资料/大二上/数据结构/sourcecode/3/DEL.C",
+		"/E/大学学习资料/大二上/数据结构/sourcecode/2/复件_LINKLIST.C",
+		"/C/Users/user/AppData/Roaming/Sublime Text 3/Packages/User/Git.sublime-settings",
+		"/C/Users/user/AppData/Roaming/Sublime Text 3/Packages/Git/Git.sublime-settings",
+		"/E/大学学习资料/大二上/数据结构/sourcecode/2/polynomial.C",
+		"/E/C++_code/student_score/grade.cpp",
+		"/E/C++_code/student_score/1.cpp",
+		"/E/C++_code/student_score/2.cpp",
+		"/E/C++_code/student_score/1.c",
+		"/C/Users/user/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/user/AppData/Roaming/Sublime Text 3/Packages/FileHeader/FileHeader.sublime-settings",
+		"/C/Users/user/AppData/Roaming/Sublime Text 3/Packages/User/FileHeader.sublime-settings",
+		"/C/Users/user/AppData/Roaming/Sublime Text 3/Packages/User/Side Bar.sublime-settings",
+		"/E/C++_code/student_score/student_info.h.gch",
+		"/E/C++_code/test7.cpp",
+		"/E/C++_code/区别学生.cpp",
+		"/E/C++_code/菲波那契.cpp",
+		"/E/C++_code/动态规划.cpp",
+		"/E/C++_code/data_struct_C/1.c",
+		"/E/C++_code/data_struct_C/2.c",
+		"/E/C++_code/test4.cpp",
+		"/E/C++_code/字符作图.cpp",
+		"/C/Users/user/AppData/Roaming/Sublime Text 3/Packages/User/acm.sublime-snippet",
+		"/C/Users/user/Desktop/微信图片_20180610110419.jpg",
+		"/C/Users/user/Desktop/习题8.6.c",
+		"/C/Users/user/AppData/Roaming/Sublime Text 3/Packages/User/c.sublime-build",
+		"/C/Users/user/AppData/Roaming/Sublime Text 3/Packages/SublimeAStyleFormatter/SublimeAStyleFormatter.sublime-settings",
+		"/C/Users/user/AppData/Roaming/Sublime Text 3/Packages/User/Localization.sublime-settings",
+		"/C/Users/user/Desktop/xxx",
+		"/D/Sublime Text 3/1"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 107.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 41.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 33.0
+	},
+	"output.exec":
+	{
+		"height": 159.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/C++2.sublime-build",
+	"project": "1.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 201.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
